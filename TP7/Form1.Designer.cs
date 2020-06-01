@@ -53,7 +53,7 @@
             this.btn_7.Location = new System.Drawing.Point(12, 59);
             this.btn_7.Name = "btn_7";
             this.btn_7.Size = new System.Drawing.Size(44, 44);
-            this.btn_7.TabIndex = 0;
+            this.btn_7.TabIndex = 2;
             this.btn_7.Text = "7";
             this.btn_7.UseVisualStyleBackColor = true;
             this.btn_7.Click += new System.EventHandler(this.btn_7_Click);
@@ -63,7 +63,7 @@
             this.btn_8.Location = new System.Drawing.Point(62, 59);
             this.btn_8.Name = "btn_8";
             this.btn_8.Size = new System.Drawing.Size(44, 44);
-            this.btn_8.TabIndex = 1;
+            this.btn_8.TabIndex = 3;
             this.btn_8.Text = "8";
             this.btn_8.UseVisualStyleBackColor = true;
             this.btn_8.Click += new System.EventHandler(this.btn_8_Click);
@@ -73,7 +73,7 @@
             this.btn_9.Location = new System.Drawing.Point(112, 59);
             this.btn_9.Name = "btn_9";
             this.btn_9.Size = new System.Drawing.Size(44, 44);
-            this.btn_9.TabIndex = 2;
+            this.btn_9.TabIndex = 4;
             this.btn_9.Text = "9";
             this.btn_9.UseVisualStyleBackColor = true;
             this.btn_9.Click += new System.EventHandler(this.btn_9_Click);
@@ -83,7 +83,7 @@
             this.btn_suma.Location = new System.Drawing.Point(162, 59);
             this.btn_suma.Name = "btn_suma";
             this.btn_suma.Size = new System.Drawing.Size(44, 44);
-            this.btn_suma.TabIndex = 3;
+            this.btn_suma.TabIndex = 5;
             this.btn_suma.Text = "+";
             this.btn_suma.UseVisualStyleBackColor = true;
             this.btn_suma.Click += new System.EventHandler(this.btn_suma_Click);
@@ -93,7 +93,7 @@
             this.btn_resta.Location = new System.Drawing.Point(162, 109);
             this.btn_resta.Name = "btn_resta";
             this.btn_resta.Size = new System.Drawing.Size(44, 44);
-            this.btn_resta.TabIndex = 7;
+            this.btn_resta.TabIndex = 9;
             this.btn_resta.Text = "-";
             this.btn_resta.UseVisualStyleBackColor = true;
             this.btn_resta.Click += new System.EventHandler(this.btn_resta_Click);
@@ -103,7 +103,7 @@
             this.btn_6.Location = new System.Drawing.Point(112, 109);
             this.btn_6.Name = "btn_6";
             this.btn_6.Size = new System.Drawing.Size(44, 44);
-            this.btn_6.TabIndex = 6;
+            this.btn_6.TabIndex = 8;
             this.btn_6.Text = "6";
             this.btn_6.UseVisualStyleBackColor = true;
             this.btn_6.Click += new System.EventHandler(this.btn_6_Click);
@@ -113,7 +113,7 @@
             this.btn_5.Location = new System.Drawing.Point(62, 109);
             this.btn_5.Name = "btn_5";
             this.btn_5.Size = new System.Drawing.Size(44, 44);
-            this.btn_5.TabIndex = 5;
+            this.btn_5.TabIndex = 7;
             this.btn_5.Text = "5";
             this.btn_5.UseVisualStyleBackColor = true;
             this.btn_5.Click += new System.EventHandler(this.btn_5_Click);
@@ -123,7 +123,7 @@
             this.btn_4.Location = new System.Drawing.Point(12, 109);
             this.btn_4.Name = "btn_4";
             this.btn_4.Size = new System.Drawing.Size(44, 44);
-            this.btn_4.TabIndex = 4;
+            this.btn_4.TabIndex = 6;
             this.btn_4.Text = "4";
             this.btn_4.UseVisualStyleBackColor = true;
             this.btn_4.Click += new System.EventHandler(this.btn_4_Click);
@@ -133,7 +133,7 @@
             this.btn_prod.Location = new System.Drawing.Point(162, 159);
             this.btn_prod.Name = "btn_prod";
             this.btn_prod.Size = new System.Drawing.Size(44, 44);
-            this.btn_prod.TabIndex = 11;
+            this.btn_prod.TabIndex = 13;
             this.btn_prod.Text = "*";
             this.btn_prod.UseVisualStyleBackColor = true;
             this.btn_prod.Click += new System.EventHandler(this.btn_prod_Click);
@@ -143,7 +143,7 @@
             this.btn_3.Location = new System.Drawing.Point(112, 159);
             this.btn_3.Name = "btn_3";
             this.btn_3.Size = new System.Drawing.Size(44, 44);
-            this.btn_3.TabIndex = 10;
+            this.btn_3.TabIndex = 12;
             this.btn_3.Text = "3";
             this.btn_3.UseVisualStyleBackColor = true;
             this.btn_3.Click += new System.EventHandler(this.btn_3_Click);
@@ -153,7 +153,7 @@
             this.btn_2.Location = new System.Drawing.Point(62, 159);
             this.btn_2.Name = "btn_2";
             this.btn_2.Size = new System.Drawing.Size(44, 44);
-            this.btn_2.TabIndex = 9;
+            this.btn_2.TabIndex = 11;
             this.btn_2.Text = "2";
             this.btn_2.UseVisualStyleBackColor = true;
             this.btn_2.Click += new System.EventHandler(this.btn_2_Click);
@@ -163,7 +163,7 @@
             this.btn_1.Location = new System.Drawing.Point(12, 159);
             this.btn_1.Name = "btn_1";
             this.btn_1.Size = new System.Drawing.Size(44, 44);
-            this.btn_1.TabIndex = 8;
+            this.btn_1.TabIndex = 10;
             this.btn_1.Text = "1";
             this.btn_1.UseVisualStyleBackColor = true;
             this.btn_1.Click += new System.EventHandler(this.btn_1_Click);
@@ -173,7 +173,7 @@
             this.btn_delete.Location = new System.Drawing.Point(162, 27);
             this.btn_delete.Name = "btn_delete";
             this.btn_delete.Size = new System.Drawing.Size(44, 20);
-            this.btn_delete.TabIndex = 12;
+            this.btn_delete.TabIndex = 1;
             this.btn_delete.Text = "C";
             this.btn_delete.UseVisualStyleBackColor = true;
             this.btn_delete.Click += new System.EventHandler(this.btn_delete_Click);
@@ -183,7 +183,7 @@
             this.tbxPantalla.Location = new System.Drawing.Point(13, 27);
             this.tbxPantalla.Name = "tbxPantalla";
             this.tbxPantalla.Size = new System.Drawing.Size(143, 20);
-            this.tbxPantalla.TabIndex = 13;
+            this.tbxPantalla.TabIndex = 0;
             // 
             // btn_div
             // 
