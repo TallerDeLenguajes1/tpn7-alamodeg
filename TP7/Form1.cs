@@ -15,7 +15,7 @@ namespace TP7
         float num1;
         float num2;
         string operador;
-        Calculadora NuevaCalculadora = new Calculadora();
+
         public Form1()
         {
             InitializeComponent();
